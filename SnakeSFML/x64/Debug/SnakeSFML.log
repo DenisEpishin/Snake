@@ -1,0 +1,40 @@
+﻿  AboutScreen.cpp
+D:\c++\SnakeSFML\SnakeSFML\AboutScreen.cpp(13,53): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Fruit.cpp
+  Game.cpp
+  GameOverScreen.cpp
+D:\c++\SnakeSFML\SnakeSFML\GameOverScreen.cpp(12,59): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  GameScreen.cpp
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(57,32): warning C4018: '>=': signed/unsigned mismatch
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(87,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(88,73): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(88,73): warning C4244:         with
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(88,73): warning C4244:         [
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(88,73): warning C4244:             _Ty=int
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(88,73): warning C4244:         ]
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(89,74): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(89,74): warning C4244:         with
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(89,74): warning C4244:         [
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(89,74): warning C4244:             _Ty=int
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(89,74): warning C4244:         ]
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,74): warning C4244:         with
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,74): warning C4244:         [
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,74): warning C4244:             T=float
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,74): warning C4244:         ]
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,51): warning C4244:         with
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,51): warning C4244:         [
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,51): warning C4244:             T=float
+D:\c++\SnakeSFML\SnakeSFML\GameScreen.cpp(91,51): warning C4244:         ]
+  main.cpp
+  MenuScreen.cpp
+  NextLevelScreen.cpp
+D:\c++\SnakeSFML\SnakeSFML\NextLevelScreen.cpp(13,61): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Screen.cpp
+  Snake.cpp
+D:\c++\SnakeSFML\SnakeSFML\Snake.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\SnakeSFML\SnakeSFML\Snake.cpp(120,20): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  SnakeNode.cpp
+  Generating Code...
+  SnakeSFML.vcxproj -> D:\c++\SnakeSFML\x64\Debug\SnakeSFML.exe
